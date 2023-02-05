@@ -1,0 +1,15 @@
+C:\Users\305-12\Desktop\боныдрев\самостоят10\bin\Debug\самостоят10.exe.config
+C:\Users\305-12\Desktop\боныдрев\самостоят10\bin\Debug\самостоят10.exe
+C:\Users\305-12\Desktop\боныдрев\самостоят10\bin\Debug\самостоят10.pdb
+C:\Users\305-12\Desktop\боныдрев\самостоят10\obj\Debug\самостоят10.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\боныдрев\самостоят10\obj\Debug\самостоят10.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\боныдрев\самостоят10\obj\Debug\самостоят10.exe
+C:\Users\305-12\Desktop\боныдрев\самостоят10\obj\Debug\самостоят10.pdb
+F:\самостоят10\obj\Debug\самостоят10.csproj.AssemblyReference.cache
+F:\самостоят10\obj\Debug\самостоят10.csproj.SuggestedBindingRedirects.cache
+F:\самостоят10\obj\Debug\самостоят10.csproj.CoreCompileInputs.cache
+F:\самостоят10\obj\Debug\самостоят10.exe
+F:\самостоят10\obj\Debug\самостоят10.pdb
+F:\самостоят10\bin\Debug\самостоят10.exe.config
+F:\самостоят10\bin\Debug\самостоят10.exe
+F:\самостоят10\bin\Debug\самостоят10.pdb
